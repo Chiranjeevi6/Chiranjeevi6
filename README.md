@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello 👋
 
-- 🔭 I’m currently working on Web Apps.
-- 🌱 I’m currently learning Web Apps.
-- 🤔 I’m looking for help with Java.
-- 📫 How to reach me: chiranjeeviankaiah6@gmail.com
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I love to eat Biryani.
+- 🔭 I’m currently focused on building modern web applications.  
+- 🌱 Actively expanding my skills in full-stack web development.  
+- 🤝 Looking to collaborate and grow my expertise in Java.  
+- 📫 You can reach me at: **chiranjeeviankaiah6@gmail.com**  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun fact: I'm a big fan of Biryani and always up for trying new recipes!
 
